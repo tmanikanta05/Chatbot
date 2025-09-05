@@ -1,0 +1,6 @@
+Q: What is 12 times 7?
+A: The result is 84
+
+Q: What is 12 times 3?
+A: The result is 36
+

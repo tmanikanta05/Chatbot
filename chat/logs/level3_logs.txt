@@ -1,0 +1,15 @@
+Q: good morning
+A: The user input is a simple greeting: "good morning".  There's no request for action or information.  Therefore, the most appropriate response is a reciprocal greeting.
+
+**Step 1: Identify the input type.** The input is a greeting.
+
+**Step 2: Determine the appropriate response.** A suitable response to a greeting is another greeting.
+
+**Step 3: Generate the response.**  A simple and polite response would be: "Good morning to you too!"  Or, depending on the context and desired level of formality,  "Good morning," or even a more informal "Morning!" would also be acceptable.
+
+**Step 4: Output the response.**  "Good morning to you too!" (or a chosen alternative).
+
+
+Q: What is 12 times 3?
+A: The result is 36
+
